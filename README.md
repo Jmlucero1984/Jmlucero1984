@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **games+sports and gamification**
 
-- 🤝 I’m looking for help with **develop innovative stuff**
+- 🤝 I’m looking for collaboration to **develop innovative stuff**
 
 - 💬 Ask me about **Games and Engineering Topics**
 
