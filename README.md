@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jmlucero1984@gmail.com**
 
-- ⚡ Fun fact **I usually have sparks of genius and great stupidity for equal.**
+- ⚡ Fun fact: **I usually have sparks of genius and great stupidity for equal.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
