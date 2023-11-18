@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm José Ma Lucero</h1>
-<h3 align="center">Graphic Designer, Civil Engineer and now Developer</h3>
+<h3 align="center">Graphic Designer, Civil Engineer and now Developer in self development</h3>
+<h34 align="center">...if you have to pay to be teached on something, you ain't really interested</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmlucero1984&label=Profile%20views&color=0e75b6&style=flat" alt="jmlucero1984" /> </p>
 
