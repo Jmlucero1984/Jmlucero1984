@@ -47,11 +47,7 @@
 <a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://qualified-production.s3.us-east-1.amazonaws.com/uploads/83e3535c491f1308e85df21a6ecdc3824b856a31a374eee6a417356d2278175e.png" alt="cypress" width="40" height="40"/></a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
 </p>
-https://www.cocos.com/
- https://www.svgrepo.com/show/330176/cocos.svg
- https://www.cocos.com/_nuxt/img/logo.b924db5.png
 
- https://www.svgrepo.com/show/303505/3ds-max-full-logo.svg
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
