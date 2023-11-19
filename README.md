@@ -27,6 +27,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
+<a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"><img src="https://blog.jetbrains.com/wp-content/uploads/2019/01/idea_icon.svg" alt="intellij" width="40" height="40"/></a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
@@ -43,6 +44,7 @@
 <a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://qualified-production.s3.us-east-1.amazonaws.com/uploads/83e3535c491f1308e85df21a6ecdc3824b856a31a374eee6a417356d2278175e.png" alt="cypress" width="40" height="40"/></a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
 </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
