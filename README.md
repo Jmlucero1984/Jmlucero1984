@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on **own game projects**
+- 💻 I’m currently working on **own game projects**
 
 - 🤝 I’m looking to collaborate on **games+sports and gamification**
 
