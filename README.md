@@ -49,17 +49,17 @@
 </p>
 
  
+<h3 align="left">Recent project:</h3>
+<p align="left">
+ <a href="https://github.com/Jmlucero1984/FracturableObjects" target="_blank" rel="noreferrer"><img src="https://github.com/Jmlucero1984/FracturableObjects/blob/main/fracturableObjsPill.png" alt="FracturableObjects" width="345" height="100"/></a>
+</p>
+
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jmlucero1984/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jmlucero1984/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCY-35QDjG_pK76fdDb9VgyA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@josemlucero7589" height="30" width="40" /></a>
  <a href="https://www.codewars.com/users/Jmlucero1984" target="blank"><img align="center" src="https://www.codewars.com/users/Jmlucero1984/badges/micro" alt="Jmlucero1984" height="30" /></a>
-</p>
-
-<h3 align="left">Recent project:</h3>
-<p align="left">
- <a href="https://github.com/Jmlucero1984/FracturableObjects" target="_blank" rel="noreferrer"><img src="https://github.com/Jmlucero1984/FracturableObjects/blob/main/fracturableObjsPill.png" alt="FracturableObjects" width="345" height="100"/></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmlucero1984&show_icons=true&locale=en&layout=compact" alt="jmlucero1984" /></p>
