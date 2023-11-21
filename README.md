@@ -51,7 +51,7 @@
  
 <h3 align="left">Recent project:</h3>
 <p align="left">
- <a href="https://github.com/Jmlucero1984/FracturableObjects" target="_blank" rel="noreferrer"><img src="https://github.com/Jmlucero1984/FracturableObjects/blob/main/fracturableObjsPill.png" alt="FracturableObjects" width="345" height="100"/></a>
+ <a href="https://github.com/Jmlucero1984/FracturableObjects" target="_blank" rel="noreferrer"><img src="https://github.com/Jmlucero1984/FracturableObjects/blob/main/fracturableObjsPill.png" alt="FracturableObjects" height="70"/></a>
 </p>
 
  
