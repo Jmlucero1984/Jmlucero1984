@@ -52,7 +52,11 @@
 <h3 align="left">Recent project:</h3>
 <p align="left">
  <a href="https://github.com/Jmlucero1984/FracturableObjects" target="_blank" rel="noreferrer"><img src="https://github.com/Jmlucero1984/FracturableObjects/blob/main/fracturableObjsPill.png" alt="FracturableObjects" height="70"/></a>
+  <a href="https://github.com/Jmlucero1984/PowerPanel" target="_blank" rel="noreferrer"><img src="https://github.com/Jmlucero1984/PowerPanel/blob/master/PowerPanelPill.png" alt="PowerPanel" height="70"/></a>
 </p>
+
+
+
 
  
 <h3 align="left">Connect with me:</h3>
