@@ -57,6 +57,12 @@
  <a href="https://www.codewars.com/users/Jmlucero1984" target="blank"><img align="center" src="https://www.codewars.com/users/Jmlucero1984/badges/micro" alt="Jmlucero1984" height="30" /></a>
 </p>
 
+<h3 align="left">Recent project:</h3>
+<p align="left">
+ <a href="https://github.com/Jmlucero1984/FracturableObjects" target="_blank" rel="noreferrer"><img src="https://github.com/Jmlucero1984/FracturableObjects/blob/main/fracturableObjsPill.png" alt="FracturableObjects" width="345" height="100"/></a>
+https://github.com/Jmlucero1984/FracturableObjects/blob/main/fracturableObjsPill.png
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmlucero1984&show_icons=true&locale=en&layout=compact" alt="jmlucero1984" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmlucero1984&show_icons=true&locale=en" alt="jmlucero1984" /></p>
