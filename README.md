@@ -48,8 +48,8 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
 </p>
 
+ <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/35d4d034938099.56e31c3d864df.gif" alt="arduino" width="100" height="100"/></a>
  
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jmlucero1984/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jmlucero1984/" height="30" width="40" /></a>
