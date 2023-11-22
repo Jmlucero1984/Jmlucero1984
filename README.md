@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **jmlucero1984@gmail.com**
 
-- ⚡ Fun fact: **I usually have sparks of genius and/or great stupidity for equal. The latter, whe all have it. The trick of being the former is to enmask the latter and make other believe that's inherent part of this behavior**
+- ⚡ Fun fact: **I usually have sparks of genius and/or great stupidity for equal. The latter, we all have it. The trick of being the former is to enmask the latter and make other believe that's inherent part of this behavior**
 
 
  
