@@ -46,8 +46,7 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
 </p>
 
-<h3 align="center">IMPORTANT : NOT ANY SINGLE PROJECT OF MINE IS A</h3>
-<h3 align="center">"FOLLOW STEP BY STEP TUTORIAL | COPY/PASTED | STRAIGHT CLONED" STUFF</h3>
+<h3 align="center">IMPORTANT : NOT ANY SINGLE PROJECT OF MINE IS A \n "FOLLOW STEP BY STEP TUTORIAL | COPY/PASTED | STRAIGHT CLONED" STUFF</h3>
  
 <h3 align="left">Recent projects:</h3>
 <p align="left">
