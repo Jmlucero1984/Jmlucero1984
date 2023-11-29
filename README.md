@@ -46,7 +46,7 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
 </p>
 
-<h2 align="center">IMPORTANT : NOT ANY SIMPLE PROJECT OF MINE IS A "FOLLOW STEP BY STEP TUTORIAL | COPY/PASTED | STRAIGHT CLONED" STUFF. ALL OF THIS WAS BORN FROM SCRATCH </h2>
+<h3 align="center">IMPORTANT : NOT ANY SIMPLE PROJECT OF MINE IS A "FOLLOW STEP BY STEP TUTORIAL | COPY/PASTED | STRAIGHT CLONED" STUFF. ALL OF THIS WAS BORN FROM SCRATCH </h3>
 <h3 align="left">Recent projects:</h3>
 <p align="left">
  <a href="https://github.com/Jmlucero1984/FracturableObjects" target="_blank" rel="noreferrer"><img src="https://github.com/Jmlucero1984/FracturableObjects/blob/main/fracturableObjsPill.png" alt="FracturableObjects" height="70"/></a> 
