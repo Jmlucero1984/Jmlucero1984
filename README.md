@@ -2,9 +2,10 @@
 <h3 align="center">🎨 Graphic Designer, 👷‍♂️ Civil Engineer and now 💻 Developer in self development</h3>
 <h4 align="center">{ If you have to pay to be teached on something, you ain't really interested }</h4>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmlucero1984&label=Profile%20views&color=0e75b6&style=flat" alt="jmlucero1984" /> </p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmlucero1984&label=Profile%20views&color=0e75b6&style=flat" alt="jmlucero1984" /> </p>  
  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jmlucero1984" alt="jmlucero1984" /></a> </p>
+-->
  
  
 
