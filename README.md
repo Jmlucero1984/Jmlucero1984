@@ -2,60 +2,11 @@
 <h3 align="center">🎨 Graphic Designer, 👷‍♂️ Civil Engineer and now 💻 Developer in self development</h3>
 <h4 align="center">{ If you have to pay to be teached on something, you ain't really interested }</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jmlucero1984&label=Profile%20views&color=0e75b6&style=flat" alt="jmlucero1984" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmlucero1984&label=Profile%20views&color=0e75b6&style=flat" alt="jmlucero1984" /> </p> -->
  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jmlucero1984" alt="jmlucero1984" /></a> </p>
  
-<li class="mb-3 d-flex flex-content-stretch sortable-button-item pinned-item-list-item js-pinned-item-list-item col-12 col-md-6 col-lg-6 reorderable">
-  <div class="Box d-flex p-3 width-full public source">
-    <div class="pinned-item-list-item-content">
-      <div class="d-flex width-full position-relative">
-        <div class="flex-1">
-            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo mr-1 color-fg-muted">
-    <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
-</svg>
-          <span data-view-component="true" class="position-relative"><a data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:91501518,&quot;target&quot;:&quot;PINNED_REPO&quot;,&quot;user_id&quot;:91501518,&quot;originating_url&quot;:&quot;https://github.com/Jmlucero1984&quot;}}" data-hydro-click-hmac="60215fd938163d39dcc2bcdc1037f0d4bc8c5e3949999086ae112920ed553851" id="720601606" href="/Jmlucero1984/Vuzzle" data-view-component="true" class="Link mr-1 text-bold wb-break-word" aria-labelledby="tooltip-ac933f4c-6314-48c6-bf78-c6917849fd89">
-<span class="repo">Vuzzle</span>
-</a><tool-tip id="tooltip-ac933f4c-6314-48c6-bf78-c6917849fd89" for="720601606" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="position-absolute sr-only" aria-hidden="true" role="tooltip" style="--tool-tip-position-top: 1284.140625px; --tool-tip-position-left: 541.6796875px;">Vuzzle</tool-tip></span>          <span></span><span class="Label Label--secondary v-align-middle mt-1 no-wrap v-align-baseline Label--inline">Public</span>
-        </div>
-          <div>
-            <input type="hidden" name="pinned_items_id_and_type[]" id="pinned-item-reorder-720601606" value="720601606-Repository" autocomplete="off" class="form-control">
-            <span role="button" class="pinned-item-handle js-pinned-item-reorder" aria-label="Drag to reorder">
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-grabber">
-    <path d="M10 13a1 1 0 1 1 0-2 1 1 0 0 1 0 2Zm0-4a1 1 0 1 1 0-2 1 1 0 0 1 0 2Zm-4 4a1 1 0 1 1 0-2 1 1 0 0 1 0 2Zm5-9a1 1 0 1 1-2 0 1 1 0 0 1 2 0ZM7 8a1 1 0 1 1-2 0 1 1 0 0 1 2 0ZM6 5a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"></path>
-</svg>
-            </span>
-            <button data-direction="up" type="button" data-view-component="true" class="show-on-focus sortable-button js-sortable-button Button--secondary Button--small Button right-0">  <span class="Button-content">
-    <span class="Button-label"><svg aria-label="Move Vuzzle up" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-chevron-up">
-    <path d="M3.22 10.53a.749.749 0 0 1 0-1.06l4.25-4.25a.749.749 0 0 1 1.06 0l4.25 4.25a.749.749 0 1 1-1.06 1.06L8 6.811 4.28 10.53a.749.749 0 0 1-1.06 0Z"></path>
-</svg></span>
-  </span>
-</button>
-            <button data-direction="down" type="button" data-view-component="true" class="show-on-focus sortable-button js-sortable-button Button--secondary Button--small Button right-0">  <span class="Button-content">
-    <span class="Button-label"><svg aria-label="Move Vuzzle down" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-chevron-down">
-    <path d="M12.78 5.22a.749.749 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.06 0L3.22 6.28a.749.749 0 1 1 1.06-1.06L8 8.939l3.72-3.719a.749.749 0 0 1 1.06 0Z"></path>
-</svg></span>
-  </span>
-</button>
-          </div>
-      </div>
-
-
-      <p class="pinned-item-desc color-fg-muted text-small mt-2 mb-0">
-        Puzzle Game for Android
-      </p>
-
-      <p class="mb-0 mt-2 f6 color-fg-muted">
-          <span class="d-inline-block mr-3">
-  <span class="repo-language-color" style="background-color: #b07219"></span>
-  <span itemprop="programmingLanguage">Java</span>
-</span>
-
-      </p>
-    </div>
-  </div>
-</li>
-
+ 
 
 - 💻 I’m currently working on **own game projects**
 
