@@ -66,7 +66,7 @@
 </p>
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmlucero1984&show_icons=true&locale=en&layout=compact" alt="jmlucero1984" /></p>-->
-<p><img align="left" src="https://camo.githubusercontent.com/230ff2a4e727db59bb5616ed0b131bc8f1a945234383aa12fdb4f58303776993/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6a6d6c756365726f313938342673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="jmlucero1984" /></p>
+<p><img align="left" src="https://github.com/Jmlucero1984/Jmlucero1984/blob/main/skills_up_to_dec_2023.svg" alt="jmlucero1984" /></p>
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmlucero1984&show_icons=true&locale=en" alt="jmlucero1984" /></p>-->
 
