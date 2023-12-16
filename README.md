@@ -65,8 +65,8 @@
  <a href="https://www.codewars.com/users/Jmlucero1984" target="blank"><img align="center" src="https://www.codewars.com/users/Jmlucero1984/badges/micro" alt="Jmlucero1984" height="30" /></a>
 </p>
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmlucero1984&show_icons=true&locale=en&layout=compact" alt="jmlucero1984" /></p> 
- 
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmlucero1984&show_icons=true&locale=en&layout=compact" alt="jmlucero1984" /></p> -->
+<p><img align="left" src="https://github.com/Jmlucero1984/Jmlucero1984/blob/1f62d20c13e7258720fcb49dd16cc46aceaef8c9/skills_up_to_dec_2023.png" alt="jmlucero1984" /> 
 
  
 
