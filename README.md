@@ -66,7 +66,9 @@
 </p>
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmlucero1984&show_icons=true&locale=en&layout=compact" alt="jmlucero1984" /></p>-->
-<p><img align="left" src="https://github.com/Jmlucero1984/Jmlucero1984/blob/main/skills_up_to_dec_2023.svg" alt="jmlucero1984" /></p>
+<embed type="image/svg+xml" src="https://github.com/Jmlucero1984/Jmlucero1984/blob/main/skills_up_to_dec_2023.svg" />
+
+ 
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmlucero1984&show_icons=true&locale=en" alt="jmlucero1984" /></p>-->
 
