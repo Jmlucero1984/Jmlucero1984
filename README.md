@@ -1,6 +1,6 @@
 <h1 align="center">José Ma Lucero</h1>
 <h3 align="center">🎨 Graphic Designer, 👷‍♂️ Civil Engineer and now 💻 Developer in self development</h3>
-<h4 align="center">{ If you have to pay to be teached on something, well... maybe you ain't really interested }</h4>
+<h4 align="center">{ Come on! Let's make something interesting... that kind of things ordinary people see as non-sense weird artifacts... }</h4>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmlucero1984&label=Profile%20views&color=0e75b6&style=flat" alt="jmlucero1984" /> </p>  
  
