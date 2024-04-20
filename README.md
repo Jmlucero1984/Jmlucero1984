@@ -30,6 +30,12 @@
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
 <a href="https://www.cocos.com/" target="_blank" rel="noreferrer"><img src="https://xgm.guru/files/283/293993/14161744_0fc270d048.png" alt="cocoscreator" width="40" height="40"/></a>
+<a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="https://godotengine.org/assets/logo_dark.svg" alt="godot"  height="40"/></a>
+
+
+
+
+ 
 <a href="https://latinoamerica.autodesk.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303505/3ds-max-full-logo.svg" alt="3dsmax" width="40" height="40"/></a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
