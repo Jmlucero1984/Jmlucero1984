@@ -20,7 +20,7 @@
 - 📫 How to reach me **jmlucero1984@gmail.com**
 
 
-  <img  alt="title" src="https://media.lordicon.com/upload/pages/2024_07/ugaTkAT1fdGgSE2RRqQPZ.svg" class="icon__preview">
+ 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
