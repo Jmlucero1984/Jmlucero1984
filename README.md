@@ -1,6 +1,6 @@
 <h1 align="center">José Ma Lucero</h1>
-<h3 align="center">🎨 Graphic Designer, 👷‍♂️ Civil Engineer and now 💻 Developer in self development</h3>
-<h4 align="center">{ In the middle of this very long journey to the depths of creation }</h4>
+<h3 align="center">🎨 Graphic Designer, 👷‍♂️ Civil Engineer and now 💻 Developer</h3>
+<h4 align="center">{ Does it has a reason to be? }</h4>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmlucero1984&label=Profile%20views&color=0e75b6&style=flat" alt="jmlucero1984" /> </p>  
  
@@ -9,7 +9,7 @@
  
  
 
-- 💻 I’m currently working on **own game projects**
+- 💻 I’m currently working on third-party backend and QA
 
 - 🤝 Eager to collaborate on **games+sports and gamification**
 
