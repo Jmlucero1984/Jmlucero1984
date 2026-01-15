@@ -11,7 +11,7 @@
 
 - 💻 I’m currently working on third-party backend and QA
 
-- 🤝 Eager to collaborate on **games+sports and gamification**
+- 🤝 Want to work on **games+sports and gamification**
 
 - 📯 Looking for collaboration to **develop innovative stuff**
 
