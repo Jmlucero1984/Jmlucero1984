@@ -67,7 +67,8 @@
  <a href="https://www.codewars.com/users/Jmlucero1984" target="blank"><img align="center" src="https://www.codewars.com/users/Jmlucero1984/badges/micro" alt="Jmlucero1984" height="30" /></a>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmlucero1984&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jmlucero1984&layout=compact&theme=radical)
+
 
 
 
