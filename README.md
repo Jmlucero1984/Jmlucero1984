@@ -68,7 +68,7 @@
 </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmlucero1984&show_icons=true&locale=en&layout=compact" alt="jmlucero1984" /></p> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmlucero1984&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jmlucero1984)](https://github.com/Jmlucero1984/github-readme-stats)
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmlucero1984&show_icons=true&locale=en" alt="jmlucero1984" /></p>-->
 
